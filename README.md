@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I am Systems Engineer who consistently delivered results in ensuring high availability P-Series/x86 Hypervisors (HA), storage, backup, disaster recovery (DR), and flawless project and migration execution for multinational organisations.<br> With interests in continual improvements of security, hardening, Infrastructure and change management.<br>Flexible in combining both ITIL frame works and Agile Methodologies to deliver efficient results.<br>🌱 I’m currently learning how to improve and extend Level 2 Autonomous driving capabilities via comma.ai OpenPilot Project.
+🔭 I am Systems Engineer who consistently delivered results in ensuring high availability P-Series/x86 Hypervisors (HA), storage, backup, disaster recovery (DR), and flawless project and migration execution for multinational organisations.<br> With interests in continual improvements of security, hardening, Infrastructure and change management.<br>Flexible in combining both ITIL frame works and Agile Methodologies to deliver efficient results.<br>
+🌱 I’m currently learning how to improve and extend Level 2 Autonomous driving capabilities via comma.ai OpenPilot Project.
 
 
 # 💻 Tech Stack:
