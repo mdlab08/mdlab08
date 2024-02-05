@@ -1,12 +1,12 @@
 
 <p align="left">
-  <img src="https://github.com/mdlab08/mdlab08/blob/main/_93191d69-4a5e-4d41-a447-50307ad46c21.jpg" width="180" title="hover text">
+  <img src="https://github.com/mdlab08/mdlab08/blob/main/_93191d69-4a5e-4d41-a447-50307ad46c21.jpg" width="180">
 </p>
 # 💫 About Me:
 🔭 I am Systems Engineer who consistently delivered results in ensuring high availability P-Series/x86 hypervisors (HA), monitoring, storage, backup, disaster recovery (DR), and flawless project and migration execution for multinational organisations.<br> With interests in continual improvements of security, hardening, Infrastructure and change management.<br>Flexible in combining both ITIL frame works and Agile Methodologies to deliver efficient results.<br><br>
-🌱 I’m currently learning how to improve and extend Level 2 Autonomous driving capabilities via comma.ai OpenPilot Project.<br><br>
+🌱 I’m currently learning how to improve and extend Level 2 Autonomous driving capabilities via comma.ai OpenPilot Project. Also learning to become a Sys/DevOps/SRE. <br><br>
 
-Contact Me: 15 Minute booking - https://bit.ly/contactmd808/<br>
+🤙🏽 Contact Me: 15 Minute booking - https://bit.ly/contactmd808/<br>
 
 
 # 💻 Tech Stack:
@@ -14,7 +14,8 @@ Contact Me: 15 Minute booking - https://bit.ly/contactmd808/<br>
 [![](https://visitcount.itsvg.in/api?id=mdlab08&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-https://github.com/commaai/openpilot/tree/master/tools <br>
-https://github.com/commaai/agnos-builder or https://flash.comma.ai/ <br>
-https://github.com/FrogAi/FrogPilot/tree/FrogPilot-Staging
+Recommended<br>
+<a href="https://github.com/commaai/openpilot/tree/master/tools">Open Pilot tools</a>
+<br>
+<a href="https://github.com/commaai/agnos-builder">Agnos Builder</a> or <a href="https://flash.comma.ai/">Agnos Flash via Browser</a><br>
+<a href="https://github.com/FrogAi/FrogPilot/tree/FrogPilot-Staging ">Cutting Edge FrogPilot Fork</a>
