@@ -16,4 +16,4 @@
 <a href="https://github.com/commaai/openpilot/tree/master/tools">Open Pilot tools</a>
 <br>
 <a href="https://github.com/commaai/agnos-builder">Agnos Builder</a> or <a href="https://flash.comma.ai/">Agnos Flash via Browser</a><br>
-<a href="https://github.com/FrogAi/FrogPilot/tree/FrogPilot-Staging ">Cutting Edge FrogPilot Fork</a>
+<a href="https://github.com/FrogAi/FrogPilot/tree/FrogPilot-Staging ">Cutting Edge FrogPilot Fork</a><br>
