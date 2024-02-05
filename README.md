@@ -1,6 +1,6 @@
 
 <p align="left">
-  <img src="https://github.com/mdlab08/mdlab08/blob/main/_93191d69-4a5e-4d41-a447-50307ad46c21.jpg" width="180">
+  <img src="https://github.com/mdlab08/mdlab08/blob/main/_93191d69-4a5e-4d41-a447-50307ad46c21.jpg?raw=true" width="180">
 </p>
 # 💫 About Me:
 🔭 I am Systems Engineer who consistently delivered results in ensuring high availability P-Series/x86 hypervisors (HA), monitoring, storage, backup, disaster recovery (DR), and flawless project and migration execution for multinational organisations.<br> With interests in continual improvements of security, hardening, Infrastructure and change management.<br>Flexible in combining both ITIL frame works and Agile Methodologies to deliver efficient results.<br><br>
